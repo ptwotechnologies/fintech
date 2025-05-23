@@ -52,12 +52,12 @@ body::-moz-scrollbar-track {
 }
 html::-webkit-scrollbar-thumb,
 body::-webkit-scrollbar-thumb {
-  background-color: #aeff1c;
+  background-color: #108DC3;
   outline: none;
 }
 html::-moz-scrollbar-thumb,
 body::-moz-scrollbar-thumb {
-  background-color: #aeff1c;
+  background-color: #108DC3;
   outline: none;
 }
 html::-webkit-scrollbar-thumb:active,
@@ -311,7 +311,7 @@ img {
 }
 .popup-video:hover {
   color: #ffffff;
-  background: #aeff1c;
+  background: #108DC3;
 }
 
 .custom-container-1600 {
@@ -408,7 +408,7 @@ img {
 #scrollToTopBtn {
   font-size: 18px;
   display: inline-block;
-  background: #aeff1c;
+  background: #108DC3;
   position: fixed;
   width: 35px;
   height: 35px;
@@ -476,7 +476,7 @@ img {
 }
 
 [data-overlay='dark']::before {
-  background-color: #aeff1c;
+  background-color: #108DC3;
 }
 
 /*-- Overlay Opacity --*/
@@ -587,7 +587,7 @@ img {
   border-radius: 50px;
 }
 .theme-main-menu .hamburger-menu:hover {
-  background: #aeff1c;
+  background: #108DC3;
   color: #ffffff;
 }
 @media only screen and (max-width: 767.98px) {
@@ -620,7 +620,7 @@ img {
 }
 .header-social a:hover {
   color: #104042;
-  background: #aeff1c;
+  background: #108DC3;
 }
 
 .main-menu {
@@ -692,13 +692,13 @@ img {
   display: none;
 }
 .main-menu ul li a:hover {
-  color: #aeff1c;
+  color: #108DC3;
 }
 .main-menu ul li a i {
   font-size: 10px;
 }
 .main-menu ul li:hover > a {
-  color: #aeff1c;
+  color: #108DC3;
 }
 .main-menu ul li ul.sub-menu {
   border: 0;
@@ -820,12 +820,12 @@ img {
 }
 .theme-menu-one .cart-menu .shopping-cart:hover {
   color: #ffffff;
-  background: #aeff1c;
-  border-color: #aeff1c;
+  background: #108DC3;
+  border-color: #108DC3;
 }
 .theme-menu-one .hamburger-menu:hover {
-  background: #aeff1c;
-  border-color: #aeff1c;
+  background: #108DC3;
+  border-color: #108DC3;
 }
 .theme-menu-one .hamburger-menu:hover .bar-wrap .bar-1,
 .theme-menu-one .hamburger-menu:hover .bar-wrap .bar-2,
@@ -893,7 +893,7 @@ img {
 }
 .theme-menu-two .bs-btn {
   color: #000000;
-  background: #aeff1c;
+  background: #108DC3;
   font-size: 18px;
   padding: 20px 45px 20px 45px;
   border-width: 0;
@@ -992,7 +992,7 @@ img {
 }
 .theme-menu-three .bs-btn {
   color: #000000;
-  background: #aeff1c;
+  background: #108DC3;
   font-size: 18px;
   padding: 20px 45px 20px 45px;
   border: 2px solid #000;
@@ -1110,12 +1110,12 @@ img {
   border-color: #ffffff;
 }
 .theme-menu-four .cart-menu .shopping-cart span {
-  background: #aeff1c;
+  background: #108DC3;
 }
 .theme-menu-four .cart-menu .shopping-cart:hover {
   color: #ffffff;
-  border-color: #aeff1c;
-  background: #aeff1c;
+  border-color: #108DC3;
+  background: #108DC3;
 }
 .theme-menu-four .search-area .search-input {
   color: #000;
@@ -1124,8 +1124,8 @@ img {
 }
 .theme-menu-four .search-area .search-input:hover {
   color: #ffffff;
-  border-color: #aeff1c;
-  background: #aeff1c;
+  border-color: #108DC3;
+  background: #108DC3;
 }
 .theme-menu-four .main-header-area,
 .theme-menu-four .header-top {
@@ -1245,7 +1245,7 @@ img {
 .theme-menu-five .bs-btn {
   color: #000000;
   padding: 23px 40px 22px 40px;
-  background: #aeff1c;
+  background: #108DC3;
   border-radius: 40px;
 }
 .theme-menu-five .bs-btn::before {
@@ -1383,7 +1383,7 @@ img {
   color: #000000;
   padding: 22px 43px 21px 43px;
   border-radius: 40px;
-  background: #aeff1c;
+  background: #108DC3;
 }
 .theme-menu-six .bs-btn::before {
   background: #104042;
@@ -1704,7 +1704,7 @@ a.meanmenu-reveal {
   width: 100%;
   max-width: 310px;
   background-color: #000000;
-  border-right: 3px solid #aeff1c;
+  border-right: 3px solid #108DC3;
   height: 100%;
   position: relative;
   left: -110%;
@@ -1729,7 +1729,7 @@ a.meanmenu-reveal {
   font-size: 16px;
   z-index: 1;
   color: #ffffff;
-  background-color: #aeff1c;
+  background-color: #108DC3;
   border-radius: 50%;
 }
 
@@ -1890,7 +1890,7 @@ a.meanmenu-reveal {
 }
 
 .theme-bg {
-  background: #aeff1c !important;
+  background: #108DC3 !important;
 }
 
 .theme-bg2 {
@@ -1909,7 +1909,7 @@ a.meanmenu-reveal {
 }
 
 .text-theme {
-  color: #aeff1c !important;
+  color: #108DC3 !important;
 }
 
 .text-theme2 {
@@ -2003,7 +2003,7 @@ a.meanmenu-reveal {
   z-index: 1;
 }
 .search-area .search-input:hover {
-  background: #aeff1c;
+  background: #108DC3;
   color: #ffffff;
 }
 
@@ -2646,12 +2646,12 @@ a.meanmenu-reveal {
   }
   50% {
     transform: scale(1);
-    background: #aeff1c;
+    background: #108DC3;
     opacity: 0.5;
   }
   100% {
     transform: scale(1.3);
-    background: #aeff1c;
+    background: #108DC3;
     opacity: 0.8;
   }
 }
@@ -2661,12 +2661,12 @@ a.meanmenu-reveal {
   }
   50% {
     transform: scale(1);
-    background: #aeff1c;
+    background: #108DC3;
     opacity: 0.5;
   }
   100% {
     transform: scale(1.3);
-    background: #aeff1c;
+    background: #108DC3;
     opacity: 0.8;
   }
 }
@@ -2676,12 +2676,12 @@ a.meanmenu-reveal {
   }
   50% {
     transform: scale(1);
-    background: #aeff1c;
+    background: #108DC3;
     opacity: 0.5;
   }
   100% {
     transform: scale(1.3);
-    background: #aeff1c;
+    background: #108DC3;
     opacity: 0.8;
   }
 }
@@ -5950,7 +5950,7 @@ theme-btn
   font-weight: 700;
   line-height: 1;
   letter-spacing: 0.05px;
-  background-color: #aeff1c;
+  background-color: #108DC3;
   padding: 23px 50px 20px 50px;
   border-radius: 40px;
   position: relative;
@@ -6028,14 +6028,14 @@ theme-btn
   width: 60px;
   height: 60px;
   border-radius: 50%;
-  background: #aeff1c;
+  background: #108DC3;
   right: -16px;
   top: 50%;
   transform: translateY(-50%);
   z-index: -1;
 }
 .btn-two:hover {
-  color: #aeff1c;
+  color: #108DC3;
 }
 
 .btn-three {
@@ -6060,7 +6060,7 @@ theme-btn
   text-transform: uppercase;
   padding: 21px 51px;
   border: 1.5px solid #000;
-  background: #aeff1c;
+  background: #108DC3;
   border-radius: 38px;
   display: inline-block;
   position: relative;
@@ -6101,7 +6101,7 @@ theme-btn
   text-transform: uppercase;
   padding: 20px 50px 20px 53px;
   border: 1.5px solid #000;
-  background: #aeff1c;
+  background: #108DC3;
   border-radius: 38px;
   display: inline-block;
   position: relative;
@@ -6184,7 +6184,7 @@ ul.slick-dots li.slick-active button {
   background: rgba(0, 0, 0, 0.1);
 }
 .dot-style-2 ul.slick-dots li.slick-active button {
-  background: #aeff1c;
+  background: #108DC3;
 }
 
 .dot-style-3 ul.slick-dots {
@@ -6271,8 +6271,8 @@ ul.slick-dots li.slick-active button {
 .arrow-style-1 .next-p1:hover::before,
 .arrow-style-1 .prev-p1:hover::before,
 .arrow-style-1 .slick-arrow:hover::before {
-  border-color: #aeff1c;
-  background: #aeff1c;
+  border-color: #108DC3;
+  background: #108DC3;
 }
 .arrow-style-1 .slick-prev {
   justify-content: end;
@@ -6314,8 +6314,8 @@ ul.slick-dots li.slick-active button {
 .arrow-style-4 .slick-arrow:hover,
 .arrow-style-4 .slick-prev:hover,
 .arrow-style-4 .slick-next:hover {
-  background: #aeff1c;
-  border-color: #aeff1c;
+  background: #108DC3;
+  border-color: #108DC3;
 }
 .arrow-style-2 .prev-p1,
 .arrow-style-4 .prev-p1 {
@@ -6378,7 +6378,7 @@ ul.slick-dots li.slick-active button {
   z-index: -2;
 }
 .arrow-style-3 .slick-arrow:hover {
-  background: #aeff1c;
+  background: #108DC3;
 }
 .arrow-style-3 .slick-arrow:hover img {
   filter: invert(1);
@@ -6614,7 +6614,7 @@ ul.slick-dots li.slick-active button {
 .faq-style-2 .accordion-item .accordion-button::before {
   content: '\f2ea';
   color: #104042;
-  background: #aeff1c;
+  background: #108DC3;
   width: 40px;
   height: 40px;
   line-height: 40px;
@@ -6660,7 +6660,7 @@ ul.slick-dots li.slick-active button {
 .faq-style-3 .accordion-item .accordion-button::before {
   content: '\f2ea';
   color: #104042;
-  background: #aeff1c;
+  background: #108DC3;
   width: 40px;
   height: 40px;
   line-height: 40px;
@@ -6711,7 +6711,7 @@ ul.slick-dots li.slick-active button {
 .faq-style-4 .accordion-item .accordion-button::before {
   content: '\f2ea';
   color: #104042;
-  background: #aeff1c;
+  background: #108DC3;
   width: 40px;
   height: 40px;
   line-height: 40px;
@@ -6764,7 +6764,7 @@ ul.slick-dots li.slick-active button {
 .faq-style-5 .accordion-item .accordion-button::before {
   content: '\f2ea';
   color: #104042;
-  background: #aeff1c;
+  background: #108DC3;
   width: 40px;
   height: 40px;
   line-height: 40px;
@@ -6806,7 +6806,7 @@ ul.slick-dots li.slick-active button {
 .feature-list-one {
   display: inline-flex;
   align-items: center;
-  background: #aeff1c;
+  background: #108DC3;
   border-radius: 45px;
   padding: 7px 33px 7px 10px;
 }
@@ -6859,7 +6859,7 @@ ul.slick-dots li.slick-active button {
   font-family: 'Radio Canada Big', serif;
 }
 .feature-list-two:hover {
-  background: #aeff1c;
+  background: #108DC3;
   border: 2px solid #000;
   border-radius: 15px;
 }
@@ -6909,11 +6909,11 @@ ul.slick-dots li.slick-active button {
   text-align: center;
   display: inline-block;
   margin-right: 10px;
-  background: #aeff1c;
+  background: #108DC3;
 }
 .feature-list-three:hover {
-  background: #aeff1c;
-  border-color: #aeff1c;
+  background: #108DC3;
+  border-color: #108DC3;
 }
 .feature-list-three:hover .icon {
   background: #ffffff;
@@ -6939,7 +6939,7 @@ ul.slick-dots li.slick-active button {
   color: #000000;
   font-size: 16px;
   display: inline-block;
-  background: #aeff1c;
+  background: #108DC3;
   width: 20px;
   height: 20px;
   border-radius: 50%;
@@ -7040,7 +7040,7 @@ ul.slick-dots li.slick-active button {
   width: 24px;
   height: 24px;
   border-radius: 50%;
-  background: #aeff1c;
+  background: #108DC3;
   margin-right: 15px;
 }
 .feature-list-seven .feature-title {
@@ -7080,7 +7080,7 @@ ul.slick-dots li.slick-active button {
   line-height: 110px;
   margin-bottom: 26px;
   margin-right: 25px;
-  background: #aeff1c;
+  background: #108DC3;
   -webkit-transition: all 0.4s ease 0s;
   -moz-transition: all 0.4s ease 0s;
   -ms-transition: all 0.4s ease 0s;
@@ -7127,8 +7127,8 @@ ul.slick-dots li.slick-active button {
   margin-bottom: 0;
 }
 .feature-wrap-1:hover {
-  background: #aeff1c;
-  border-color: #aeff1c;
+  background: #108DC3;
+  border-color: #108DC3;
 }
 .feature-wrap-1:hover .icon {
   background: #ffffff;
@@ -7604,7 +7604,7 @@ ul.slick-dots li.slick-active button {
 }
 .social-links a:hover {
   color: #ffffff;
-  background: #aeff1c;
+  background: #108DC3;
 }
 
 .social-links2 a {
@@ -7679,7 +7679,7 @@ ul.slick-dots li.slick-active button {
 }
 .widget-file .file-download:hover {
   color: #ffffff;
-  background: #aeff1c;
+  background: #108DC3;
 }
 .widget-file ul li:last-child .file-download {
   margin-bottom: 0;
@@ -7737,7 +7737,7 @@ ul.slick-dots li.slick-active button {
 .comment-form button {
   color: #000;
   padding: 18px 40px 17px 40px;
-  background: #aeff1c;
+  background: #108DC3;
 }
 .comment-form p {
   display: flex;
@@ -7786,8 +7786,8 @@ ul.slick-dots li.slick-active button {
 }
 .page-navigation .page-link:hover {
   color: #000000;
-  background: #aeff1c;
-  border-color: #aeff1c;
+  background: #108DC3;
+  border-color: #108DC3;
 }
 
 .recent-post {
@@ -7945,7 +7945,7 @@ ul.slick-dots li.slick-active button {
 .widget-contact p {
   color: #000000;
   font-size: 22px;
-  background: #aeff1c;
+  background: #108DC3;
   border-radius: 50px;
   width: max-content;
   padding: 12px 20px;
@@ -8048,7 +8048,7 @@ ul.slick-dots li.slick-active button {
   -webkit-box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.3);
 }
 .cart-list-form .table-responsive::-webkit-scrollbar-thumb {
-  background-color: #aeff1c;
+  background-color: #108DC3;
 }
 .cart-list-form .table .product-info {
   padding-left: 30px;
@@ -8130,7 +8130,7 @@ ul.slick-dots li.slick-active button {
   }
 }
 .cart-list-form .table .remove-product {
-  color: #aeff1c;
+  color: #108DC3;
   font-size: 22px;
 }
 .cart-list-form .table tbody tr {
@@ -8196,7 +8196,7 @@ ul.slick-dots li.slick-active button {
   color: #000000;
 }
 .cart-footer .coupon-form .coupon_btn:hover::before {
-  background: #aeff1c;
+  background: #108DC3;
 }
 .cart-footer .update-section p {
   color: #000000;
@@ -8231,7 +8231,7 @@ ul.slick-dots li.slick-active button {
   padding: 10px 25px;
 }
 .cart-total-section .checkout-process:hover {
-  background: #aeff1c;
+  background: #108DC3;
 }
 @media only screen and (max-width: 767.98px) {
   .cart-total-section {
@@ -8405,7 +8405,7 @@ ul.slick-dots li.slick-active button {
 }
 .shopping-cart span {
   position: absolute;
-  background: #aeff1c;
+  background: #108DC3;
   border-radius: 50%;
   width: 17px;
   height: 17px;
@@ -8416,7 +8416,7 @@ ul.slick-dots li.slick-active button {
   left: auto;
 }
 .shopping-cart:hover {
-  background: #aeff1c;
+  background: #108DC3;
   color: #ffffff;
 }
 @media only screen and (max-width: 767.98px) {
@@ -8514,7 +8514,7 @@ ul.slick-dots li.slick-active button {
 }
 .price-range .filter {
   border: 0;
-  background: #aeff1c;
+  background: #108DC3;
   color: #fff;
   font-size: 16px;
   line-height: 1;
@@ -8544,7 +8544,7 @@ ul.slick-dots li.slick-active button {
 
 .ui-widget-content {
   border: 1px solid #ffffff;
-  background: #aeff1c;
+  background: #108DC3;
   color: #ffffff;
   border: 0;
   border-radius: 4px;
@@ -8639,12 +8639,12 @@ ul.slick-dots li.slick-active button {
   margin-bottom: 10px;
 }
 .product-wrapper .product-tag {
-  color: #aeff1c;
+  color: #108DC3;
   font-size: 14px;
   line-height: 1;
   font-weight: 400;
   font-family: 'Radio Canada Big', serif;
-  border-bottom: 1px solid #aeff1c;
+  border-bottom: 1px solid #108DC3;
   display: inline-block;
   margin-bottom: 13px;
 }
@@ -8692,7 +8692,7 @@ ul.slick-dots li.slick-active button {
   margin-bottom: 8px;
 }
 .product-wrapper .product-title:hover {
-  color: #aeff1c;
+  color: #108DC3;
 }
 .product-wrapper .price {
   color: #000000;
@@ -8739,7 +8739,7 @@ ul.slick-dots li.slick-active button {
   font-size: 15px;
   display: block;
   line-height: 32px;
-  background: #aeff1c;
+  background: #108DC3;
   width: 32px;
   height: 32px;
   border-radius: 50%;
@@ -8799,7 +8799,7 @@ ul.slick-dots li.slick-active button {
   transform: translateX(-50%);
   border-radius: 50%;
   z-index: -1;
-  background: #aeff1c;
+  background: #108DC3;
 }
 .cart-btn:hover {
   color: #ffffff;
@@ -8833,7 +8833,7 @@ ul.slick-dots li.slick-active button {
 }
 .sort-item .sort-btn:hover {
   color: #ffffff;
-  background: #aeff1c;
+  background: #108DC3;
 }
 
 .product-item-slider .product-item {
@@ -8924,7 +8924,7 @@ ul.slick-dots li.slick-active button {
 }
 .product-details .price-list .new-price {
   font-size: 22px;
-  color: #aeff1c;
+  color: #108DC3;
   font-family: 'Radio Canada Big', serif;
 }
 .product-details .add-to-cart {
@@ -8934,7 +8934,7 @@ ul.slick-dots li.slick-active button {
   line-height: 20px;
   font-family: 'Radio Canada Big', serif;
   font-weight: 500;
-  background: #aeff1c;
+  background: #108DC3;
   padding: 14px 40px;
   border-radius: 4px;
   position: relative;
@@ -9048,7 +9048,7 @@ ul.slick-dots li.slick-active button {
   padding-left: 10px;
   position: absolute;
   top: 36px;
-  border: 1px solid #aeff1c;
+  border: 1px solid #108DC3;
   padding-left: 0;
   width: 30px;
   height: 30px;
@@ -9069,7 +9069,7 @@ ul.slick-dots li.slick-active button {
   transition: all 0.3s ease 0s;
 }
 .cart-menu-right .close-icon a:hover {
-  color: #aeff1c;
+  color: #108DC3;
 }
 .cart-menu-right .close-icon a:hover i {
   transform: rotate(180deg);
@@ -9109,7 +9109,7 @@ ul.slick-dots li.slick-active button {
   margin-bottom: 10px;
 }
 .cart-style-1 .product__cart-details .product-title a:hover {
-  color: #aeff1c;
+  color: #108DC3;
 }
 .cart-style-1 .product .cart-product-info {
   color: #000000;
@@ -9146,14 +9146,14 @@ ul.slick-dots li.slick-active button {
   margin-left: auto;
 }
 .cart-style-1 .cart-action .btn {
-  background: #aeff1c;
+  background: #108DC3;
   border-radius: 0;
   padding: 6px 20px;
   border: 0;
 }
 .cart-style-1 .cart-action .btn-outline-primary-2 {
   background: transparent;
-  border: 1px solid #aeff1c;
+  border: 1px solid #108DC3;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
   -ms-transition: all 0.3s ease 0s;
@@ -9168,7 +9168,7 @@ ul.slick-dots li.slick-active button {
 }
 .cart-style-1 .cart-action .btn-outline-primary-2:hover {
   color: #ffffff;
-  background: #aeff1c;
+  background: #108DC3;
 }
 @media only screen and (max-width: 767.98px) {
   .cart-style-1 {
@@ -9199,7 +9199,7 @@ ul.slick-dots li.slick-active button {
   transition: all 0.3s ease 0s;
 }
 .social-links-two a:hover {
-  color: #aeff1c;
+  color: #108DC3;
   transform: scale(1.1);
 }
 
@@ -9265,8 +9265,8 @@ ul.slick-dots li.slick-active button {
   display: none;
 }
 .product-category-wrap .category-btn:hover {
-  border-color: #aeff1c;
-  background: #aeff1c;
+  border-color: #108DC3;
+  background: #108DC3;
 }
 .product-category-wrap:hover .category-btn {
   display: inline-block;
@@ -9373,8 +9373,8 @@ ul.slick-dots li.slick-active button {
 }
 .theme-banner-one .bstyle-2:hover {
   color: #104042;
-  background: #aeff1c;
-  border-color: #aeff1c;
+  background: #108DC3;
+  border-color: #108DC3;
 }
 .theme-banner-one .main-img {
   position: relative;
@@ -9506,7 +9506,7 @@ ul.slick-dots li.slick-active button {
 }
 .theme-banner-two .bs-style {
   color: #104042;
-  background: #aeff1c;
+  background: #108DC3;
   border-radius: 40px;
   padding-top: 28px;
   padding-bottom: 26px;
@@ -9550,8 +9550,8 @@ ul.slick-dots li.slick-active button {
 }
 .theme-banner-two .bstyle-2:hover {
   color: #104042;
-  background: #aeff1c;
-  border-color: #aeff1c;
+  background: #108DC3;
+  border-color: #108DC3;
 }
 @media only screen and (max-width: 1600px) {
   .theme-banner-two {
@@ -9661,7 +9661,7 @@ ul.slick-dots li.slick-active button {
   letter-spacing: 0.5px;
   text-transform: uppercase;
   display: inline-block;
-  background: #aeff1c;
+  background: #108DC3;
   position: absolute;
   right: 0;
   top: 0;
@@ -9705,7 +9705,7 @@ ul.slick-dots li.slick-active button {
 }
 .theme-banner-three .bstyle {
   color: #000;
-  background: #aeff1c;
+  background: #108DC3;
   border-radius: 40px;
   padding: 25px 49px 25px 49px;
 }
@@ -9841,7 +9841,7 @@ ul.slick-dots li.slick-active button {
 .theme-banner-four .bstyle {
   color: #104042;
   text-transform: uppercase;
-  background: #aeff1c;
+  background: #108DC3;
   border-radius: 40px;
   padding-top: 28px;
   padding-bottom: 25px;
@@ -9877,15 +9877,15 @@ ul.slick-dots li.slick-active button {
   font-size: 25px;
   line-height: 55px;
   border-radius: 50%;
-  background: #aeff1c;
+  background: #108DC3;
 }
 .theme-banner-four .bstyle-2 .popup-video i {
   color: #000;
 }
 .theme-banner-four .bstyle-2:hover {
   color: #104042;
-  background: #aeff1c;
-  border-color: #aeff1c;
+  background: #108DC3;
+  border-color: #108DC3;
 }
 .theme-banner-four .bstyle-2:hover .popup-video {
   background: #ffffff;
@@ -9978,7 +9978,7 @@ ul.slick-dots li.slick-active button {
 }
 .theme-banner-five .bs-style {
   color: #104042;
-  background: #aeff1c;
+  background: #108DC3;
   border-radius: 40px;
   padding-top: 28px;
   padding-bottom: 26px;
@@ -10015,15 +10015,15 @@ ul.slick-dots li.slick-active button {
   font-size: 25px;
   line-height: 55px;
   border-radius: 50%;
-  background: #aeff1c;
+  background: #108DC3;
 }
 .theme-banner-five .bstyle-2 .popup-video i {
   color: #ffffff;
 }
 .theme-banner-five .bstyle-2:hover {
   color: #104042;
-  background: #aeff1c;
-  border-color: #aeff1c;
+  background: #108DC3;
+  border-color: #108DC3;
 }
 .theme-banner-five .bstyle-2:hover .popup-video {
   background: #104042;
@@ -10467,7 +10467,7 @@ ul.slick-dots li.slick-active button {
   width: 33px;
   height: 33px;
   border-radius: 50%;
-  background: #aeff1c;
+  background: #108DC3;
   text-align: center;
   line-height: 33px;
 }
@@ -10589,7 +10589,7 @@ ul.slick-dots li.slick-active button {
   font-size: 55px;
   width: 140px;
   height: 140px;
-  background: #aeff1c;
+  background: #108DC3;
   display: inline-flex;
   justify-content: center;
   align-items: center;
@@ -10615,7 +10615,7 @@ ul.slick-dots li.slick-active button {
   margin-bottom: 35px;
 }
 .counter-wrap-1 .number {
-  color: #aeff1c;
+  color: #108DC3;
   font-size: 120px;
   font-weight: 600;
   font-family: 'Radio Canada Big', serif;
@@ -10809,7 +10809,7 @@ ul.slick-dots li.slick-active button {
   border-radius: 30px;
 }
 .author-quote .icon {
-  background: #aeff1c;
+  background: #108DC3;
   width: 70px;
   height: 70px;
   border-radius: 50%;
@@ -10931,7 +10931,7 @@ ul.slick-dots li.slick-active button {
   font-weight: 600;
 }
 .icon-box .icon {
-  color: #aeff1c;
+  color: #108DC3;
   font-size: 20px;
   display: inline-block;
   width: 50px;
@@ -10948,7 +10948,7 @@ ul.slick-dots li.slick-active button {
 }
 .icon-box:hover .icon {
   color: #ffffff;
-  background: #aeff1c;
+  background: #108DC3;
 }
 
 .skill-wrapper-box {
@@ -10992,7 +10992,7 @@ ul.slick-dots li.slick-active button {
 }
 .skill-wrapper .progress .progress-bar {
   height: 7px;
-  background: #aeff1c;
+  background: #108DC3;
   width: 72%;
   border-radius: 0px;
   overflow: visible;
@@ -11202,7 +11202,7 @@ ul.slick-dots li.slick-active button {
   top: 16%;
 }
 .process-wrap-2 .icon {
-  background: #aeff1c;
+  background: #108DC3;
   width: 90px;
   height: 90px;
   line-height: 90px;
@@ -11280,7 +11280,7 @@ ul.slick-dots li.slick-active button {
   transition: all 0.4s ease 0s;
 }
 .service-wrap-1 .service-title a:hover {
-  color: #aeff1c;
+  color: #108DC3;
 }
 .service-wrap-1 .description {
   color: #104042;
@@ -11417,8 +11417,8 @@ ul.slick-dots li.slick-active button {
   margin-left: 6px;
 }
 .service-wrap-2:hover {
-  background: #aeff1c;
-  border-color: #aeff1c;
+  background: #108DC3;
+  border-color: #108DC3;
 }
 .service-wrap-2:hover .icon {
   background: #ffffff;
@@ -11651,7 +11651,7 @@ ul.slick-dots li.slick-active button {
   border-color: #000;
 }
 .service-wrap-4:hover .icon {
-  background: #aeff1c;
+  background: #108DC3;
   border-color: #000;
 }
 .service-wrap-4:hover .icon .front-icon {
@@ -11874,7 +11874,7 @@ ul.slick-dots li.slick-active button {
   border-bottom-color: transparent;
 }
 .service-wrap-6:hover .icon {
-  background: #aeff1c;
+  background: #108DC3;
   border-color: #000;
 }
 .service-wrap-6:hover .icon .front-icon {
@@ -11967,7 +11967,7 @@ ul.slick-dots li.slick-active button {
   width: 100px;
   height: 100px;
   border-radius: 50%;
-  background: #aeff1c;
+  background: #108DC3;
   display: inline-flex;
   justify-content: center;
   align-items: center;
@@ -12061,7 +12061,7 @@ ul.slick-dots li.slick-active button {
   border-radius: 0;
 }
 .portfolio-wrap-2 .icon-link:hover {
-  background: #aeff1c;
+  background: #108DC3;
 }
 .portfolio-wrap-2 .icon-link:hover img {
   filter: invert(1);
@@ -12142,7 +12142,7 @@ ul.slick-dots li.slick-active button {
   border-radius: 0;
 }
 .portfolio-wrap-3 .icon-link:hover {
-  background: #aeff1c;
+  background: #108DC3;
 }
 .portfolio-wrap-3 .icon-link:hover img {
   filter: invert(1);
@@ -12201,7 +12201,7 @@ ul.slick-dots li.slick-active button {
 }
 .portfolio-menu .gf_btn:hover,
 .portfolio-menu .gf_btn.active {
-  background: #aeff1c;
+  background: #108DC3;
   color: #ffffff;
 }
 @media only screen and (max-width: 991.98px) {
@@ -12238,7 +12238,7 @@ ul.slick-dots li.slick-active button {
   height: 60px;
   text-align: center;
   line-height: 60px;
-  background: #aeff1c;
+  background: #108DC3;
   border-radius: 50%;
   font-size: 26px;
   margin-right: 20px;
@@ -12305,8 +12305,8 @@ ul.slick-dots li.slick-active button {
   transition: all 0.4s ease 0s;
 }
 .portfolio-navigation .icon-link:hover {
-  border-color: #aeff1c;
-  background: #aeff1c;
+  border-color: #108DC3;
+  background: #108DC3;
 }
 .portfolio-navigation .icon-link:hover img {
   filter: invert(1);
@@ -12442,7 +12442,7 @@ ul.slick-dots li.slick-active button {
   letter-spacing: 0.05px;
   border-radius: 50px;
   border: 0;
-  background: #aeff1c;
+  background: #108DC3;
   border: 2px solid #000;
   width: 100%;
   -webkit-transition: all 0.4s ease 0s;
@@ -12518,8 +12518,8 @@ ul.slick-dots li.slick-active button {
 .contact-form.form-3 .submit-btn {
   color: #000000;
   width: 100%;
-  background: #aeff1c;
-  border-color: #aeff1c;
+  background: #108DC3;
+  border-color: #108DC3;
 }
 
 .subscribe-form {
@@ -12571,7 +12571,7 @@ ul.slick-dots li.slick-active button {
 }
 .subscribe-form button:hover {
   color: #000000;
-  background: #aeff1c;
+  background: #108DC3;
 }
 .subscribe-form.sub-form-2 {
   display: inline-block;
@@ -12588,7 +12588,7 @@ ul.slick-dots li.slick-active button {
 .subscribe-form.sub-form-2 button {
   color: #000000;
   font-size: 18px;
-  background: #aeff1c;
+  background: #108DC3;
   min-height: 55px;
   line-height: 55px;
   padding-left: 30px;
@@ -12631,7 +12631,7 @@ ul.slick-dots li.slick-active button {
 }
 .subscribe-form.sub-form-3 button {
   color: #000000;
-  background: #aeff1c;
+  background: #108DC3;
   position: relative;
   z-index: 1;
   min-width: 155px;
@@ -12668,7 +12668,7 @@ ul.slick-dots li.slick-active button {
 }
 .subscribe-form.sub-form-4 button {
   color: #ffffff;
-  background: #aeff1c;
+  background: #108DC3;
   min-height: 65px;
   line-height: 65px;
   padding-left: 30px;
@@ -12826,7 +12826,7 @@ ul.slick-dots li.slick-active button {
   color: #000000;
   width: 70px;
   height: 70px;
-  background: #aeff1c;
+  background: #108DC3;
   border-radius: 50%;
   font-size: 40px;
   text-align: center;
@@ -13261,7 +13261,7 @@ ul.slick-dots li.slick-active button {
   margin-bottom: 40px;
 }
 .feedback-wrap-4 .quote {
-  background: #aeff1c;
+  background: #108DC3;
   width: 70px;
   height: 70px;
   border-radius: 50%;
@@ -13455,7 +13455,7 @@ ul.slick-dots li.slick-active button {
   width: 60px;
   height: 60px;
   border-radius: 50%;
-  background: #aeff1c;
+  background: #108DC3;
   position: absolute;
   right: 0;
   bottom: 0;
@@ -13530,7 +13530,7 @@ ul.slick-dots li.slick-active button {
 }
 .team-wrap-1 .content {
   text-align: center;
-  background: #aeff1c;
+  background: #108DC3;
   padding: 25px 43px 14px 40px;
   position: absolute;
   width: 83%;
@@ -13636,7 +13636,7 @@ ul.slick-dots li.slick-active button {
   line-height: 65px;
 }
 .team-wrap-2 .team-social a:hover {
-  color: #aeff1c;
+  color: #108DC3;
   background: #104042;
 }
 .team-wrap-2 .content {
@@ -13802,7 +13802,7 @@ ul.slick-dots li.slick-active button {
 }
 .team-social a:hover {
   color: #ffffff;
-  background: #aeff1c;
+  background: #108DC3;
 }
 .team-social a:hover i {
   transform: scale(1.2);
@@ -13827,8 +13827,8 @@ ul.slick-dots li.slick-active button {
 }
 .team-social-2 a:hover {
   color: #000000;
-  border-color: #aeff1c;
-  background: #aeff1c;
+  border-color: #108DC3;
+  background: #108DC3;
 }
 
 .biography-content-wrap .team-biography img {
@@ -13882,8 +13882,8 @@ ul.slick-dots li.slick-active button {
 }
 .biography-content-wrap .contact-btn:hover {
   color: #ffffff;
-  background: #aeff1c;
-  border-color: #aeff1c;
+  background: #108DC3;
+  border-color: #108DC3;
 }
 @media only screen and (max-width: 1200px) {
   .biography-content-wrap .name {
@@ -14027,7 +14027,7 @@ ul.slick-dots li.slick-active button {
   transition: all 0.4s ease 0s;
 }
 .blog-one:hover .blog-btn {
-  background: #aeff1c;
+  background: #108DC3;
   transform: rotate(-45deg);
 }
 @media only screen and (max-width: 1200px) {
@@ -14148,7 +14148,7 @@ ul.slick-dots li.slick-active button {
   transition: all 0.4s ease 0s;
 }
 .blog-two:hover .blog-btn {
-  background: #aeff1c;
+  background: #108DC3;
 }
 @media only screen and (max-width: 1600px) {
   .blog-two .blog-thumb .blog-tag {
@@ -14211,7 +14211,7 @@ ul.slick-dots li.slick-active button {
   transition: all 0.4s ease 0s;
 }
 .blog-three .blog-meta a:hover {
-  color: #aeff1c;
+  color: #108DC3;
 }
 .blog-three .blog-title {
   font-size: 36px;
@@ -14270,7 +14270,7 @@ ul.slick-dots li.slick-active button {
 }
 .blog-three:hover .blog-btn {
   color: #000;
-  background: #aeff1c;
+  background: #108DC3;
 }
 @media only screen and (max-width: 1200px) {
   .blog-three {
@@ -14443,7 +14443,7 @@ ul.slick-dots li.slick-active button {
   font-size: 18px;
   font-weight: 700;
   font-family: 'Radio Canada Big', serif;
-  background: #aeff1c;
+  background: #108DC3;
   width: 80px;
   height: 80px;
   display: inline-flex;
@@ -14549,7 +14549,7 @@ ul.slick-dots li.slick-active button {
   transition: all 0.4s ease 0s;
 }
 .blog-six .blog-meta a:hover {
-  color: #aeff1c;
+  color: #108DC3;
 }
 .blog-six .blog-meta a:last-child {
   margin-right: 0;
@@ -14712,7 +14712,7 @@ ul.slick-dots li.slick-active button {
   align-items: center;
   display: inline-flex;
   border-radius: 50%;
-  background: #aeff1c;
+  background: #108DC3;
   position: absolute;
   right: 20px;
   bottom: 20px;
@@ -14765,7 +14765,7 @@ ul.slick-dots li.slick-active button {
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
-  background: #aeff1c;
+  background: #108DC3;
   position: absolute;
 }
 .classic-style .popup-video img {
@@ -14882,7 +14882,7 @@ ul.slick-dots li.slick-active button {
   transition: all 0.4s ease 0s;
 }
 .classic-style:hover .blog-btn {
-  background: #aeff1c;
+  background: #108DC3;
   transform: rotate(-45deg);
 }
 @media only screen and (max-width: 1200px) {
@@ -14926,7 +14926,7 @@ ul.slick-dots li.slick-active button {
 }
 
 .blockquote {
-  background: #aeff1c;
+  background: #108DC3;
   padding: 45px 10px 60px 128px;
   border-radius: 20px;
   position: relative;
@@ -15165,11 +15165,11 @@ ul.slick-dots li.slick-active button {
 }
 .ht-plan.active .feature-list li.price-available .check-mark,
 .ht-plan:hover .feature-list li.price-available .check-mark {
-  color: #aeff1c;
+  color: #108DC3;
 }
 .ht-plan.active .feature-list li.unavailable .check-mark,
 .ht-plan:hover .feature-list li.unavailable .check-mark {
-  color: #aeff1c;
+  color: #108DC3;
 }
 .ht-plan.active .feature-list li.unavailable,
 .ht-plan:hover .feature-list li.unavailable {
@@ -15177,8 +15177,8 @@ ul.slick-dots li.slick-active button {
 }
 .ht-plan.active .price-btn,
 .ht-plan:hover .price-btn {
-  border-color: #aeff1c;
-  background: #aeff1c;
+  border-color: #108DC3;
+  background: #108DC3;
 }
 
 .ht-plan-tag {
@@ -15337,7 +15337,7 @@ ul.slick-dots li.slick-active button {
   color: #104042;
 }
 .copyright-text a:hover {
-  color: #aeff1c;
+  color: #108DC3;
 }
 @media only screen and (max-width: 991.98px) {
   .copyright-text {
@@ -15377,7 +15377,7 @@ ul.slick-dots li.slick-active button {
   transition: all 0.4s ease 0s;
 }
 .footer-widget ul li a:hover {
-  color: #aeff1c;
+  color: #108DC3;
 }
 @media only screen and (max-width: 991.98px) {
   .footer-widget .widget-title {
@@ -15391,7 +15391,7 @@ ul.slick-dots li.slick-active button {
 .ht-widget-contact .info-box-icon {
   font-size: 24px;
   margin-right: 15px;
-  color: #aeff1c;
+  color: #108DC3;
   line-height: 1;
   margin-top: 10px;
 }
@@ -15399,7 +15399,7 @@ ul.slick-dots li.slick-active button {
   font-size: 16px;
 }
 .ht-widget-contact .ht-content:hover {
-  color: #aeff1c;
+  color: #108DC3;
 }
 .ht-widget-contact .info-box-label {
   display: block;
@@ -15438,7 +15438,7 @@ ul.slick-dots li.slick-active button {
   transition: all 0.4s ease 0s;
 }
 .footer-menu li a:hover {
-  color: #aeff1c;
+  color: #108DC3;
 }
 @media only screen and (max-width: 1200px) {
   .footer-menu li a {
@@ -15480,8 +15480,8 @@ ul.slick-dots li.slick-active button {
 }
 .footer-one .social-links a:hover {
   color: #000;
-  background: #aeff1c;
-  border-color: #aeff1c;
+  background: #108DC3;
+  border-color: #108DC3;
 }
 .footer-one .copyright-wrap {
   border-top: 1px solid #104042;
@@ -15514,7 +15514,7 @@ ul.slick-dots li.slick-active button {
   color: #ffffff;
 }
 .footer-two .footer-widget ul li a:hover {
-  color: #aeff1c;
+  color: #108DC3;
 }
 .footer-two .social-links a {
   color: #ffffff;
@@ -15522,14 +15522,14 @@ ul.slick-dots li.slick-active button {
 }
 .footer-two .social-links a:hover {
   color: #000;
-  background: #aeff1c;
-  border-color: #aeff1c;
+  background: #108DC3;
+  border-color: #108DC3;
 }
 .footer-two .footer-menu li a {
   color: #ffffff;
 }
 .footer-two .footer-menu li a:hover {
-  color: #aeff1c;
+  color: #108DC3;
 }
 .footer-two .copyright-text {
   color: #ffffff;
@@ -15563,7 +15563,7 @@ ul.slick-dots li.slick-active button {
   font-family: 'Radio Canada Big', serif;
 }
 .footer-three .footer-widget ul li a:hover {
-  color: #aeff1c;
+  color: #108DC3;
 }
 .footer-three .footer-menu li a {
   color: #000000;
@@ -15579,8 +15579,8 @@ ul.slick-dots li.slick-active button {
 }
 .footer-three .social-links a:hover {
   color: #000;
-  background: #aeff1c;
-  border-color: #aeff1c;
+  background: #108DC3;
+  border-color: #108DC3;
 }
 .footer-three .copyright-wrap {
   border-top: 1px solid rgba(0, 0, 0, 0.3);
@@ -15613,8 +15613,8 @@ ul.slick-dots li.slick-active button {
 }
 .footer-four .social-links a:hover {
   color: #000000;
-  background: #aeff1c;
-  border-color: #aeff1c;
+  background: #108DC3;
+  border-color: #108DC3;
 }
 .footer-four .copyright-wrap {
   border-top: 1px solid #000;
@@ -15644,7 +15644,7 @@ ul.slick-dots li.slick-active button {
   font-family: 'Radio Canada Big', serif;
 }
 .footer-five .footer-widget ul li a:hover {
-  color: #aeff1c;
+  color: #108DC3;
 }
 @media only screen and (max-width: 1200px) {
   .footer-five .footer-widget ul li a {
@@ -15655,13 +15655,13 @@ ul.slick-dots li.slick-active button {
   color: #ffffff;
 }
 .footer-five .footer-menu li a:hover {
-  color: #aeff1c;
+  color: #108DC3;
 }
 .footer-five .copyright-text a {
   color: #ffffff;
 }
 .footer-five .copyright-text a:hover {
-  color: #aeff1c;
+  color: #108DC3;
 }
 .footer-five .social-links a {
   color: #ffffff;
@@ -15669,8 +15669,8 @@ ul.slick-dots li.slick-active button {
 }
 .footer-five .social-links a:hover {
   color: #000;
-  background: #aeff1c;
-  border-color: #aeff1c;
+  background: #108DC3;
+  border-color: #108DC3;
 }
 .footer-five .copyright-wrap {
   border-top: 1px solid rgba(255, 255, 255, 0.2);
